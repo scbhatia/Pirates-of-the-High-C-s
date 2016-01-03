@@ -1,2 +1,2 @@
 # Pirates-of-the-High-C-s
-A simple game I made for my Software Engineering Class in C++
+This is a case-based OOP game that I made in my Introduction to Software Engineering Class using C++. It has a grid layout similar to Battleship. 
